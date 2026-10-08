@@ -208,6 +208,8 @@ Every screenshot here is the real app at work on public-domain art, rendered off
   </tr>
 </table>
 
+🌍 **13 interface languages**, switchable live in Edit › Preferences › Interface › Language: English, Čeština, Deutsch, Español, Français, Bahasa Indonesia, Italiano, Português (Brasil), Русский, 日本語, 한국어, 简体中文 and 繁體中文. To add or improve one, see [`docs/localization.md`](docs/localization.md).
+
 <br>
 
 ## PSD without compromise
